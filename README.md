@@ -1,4 +1,4 @@
-# Hello my name is Fatih and this is my data :
+# Hello my name is Fatih
 
 - Name			: Alfatih Rizqi Alfian
 - Email    : alfatihrizqialfian@gmail.com
